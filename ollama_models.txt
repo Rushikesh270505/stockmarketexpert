@@ -1,0 +1,4 @@
+gpt-oss:latest
+starcoder2:7b
+gpt-oss:120b-cloud
+llama3:latest
